@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['16056093729','8403838592']
 //-------------
 
 
@@ -70,22 +70,22 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'private'
+   global.worktype = 'public'
 
    //---------------------------------------------------------------------
    
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['16056093729']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['16056093729']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'BRUNO' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = 'BUCCIARATI'
 
    //---------------------------------------------------------------------
 
@@ -189,25 +189,25 @@ global.premium = [`${ownernum}`]
 //-------------
 global.sessionName = 'session.alfa'
 //-------------
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['!']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = 'KONO DIO DA'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['8403838592']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = 'BRUNO BUCCIARATI' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = 'BRUNO BUCCIARATI'
 //-------------
 global.icon = '✩' 
 //-------------
-global.mail = 'AlienAlfa.YT@gmail.com'
+global.mail = ''
 //-------------
 global.youtube = 'https://youtube.com/c/alienalfa'
 //-------------
@@ -215,9 +215,9 @@ global.github = 'https://github.com/Alien-alfa/'
 //-------------
 global.insta = 'https://www.instagram.com/alienalfa/' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = 'ARRIVEDERCI'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = 'ARRIVEDERCI' 
 //-------------
 global.herokuapi = '' 
 //-------------
@@ -232,17 +232,17 @@ global.herokuapp = ''
 //-------------
 global.welcomeactive =  true
 //-------------
-global.alivemess = false
+global.alivemess = true
 //-------------
-global.aliveimage = false
+global.aliveimage = true
 //-------------
 global.speedmode =  'active'
 //-------------
 global.ownermess = 'ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ ᴇɴɢʟɪꜱʜ'
 //-------------
-global.autoread = false 
+global.autoread = true 
 //-------------
-global.anticall = false 
+global.anticall = true 
 //-------------
 
 
