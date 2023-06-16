@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['16056093729','8403838592']
+var ownernum = ['16056093729','918403838592']
 //-------------
 
 
@@ -195,7 +195,7 @@ global.sp = '𒆜'
 //-------------
 global.devname = 'KONO DIO DA'
 //-------------
-global.devNum = ['8403838592']
+global.devNum = ['918403838592']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
